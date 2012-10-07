@@ -1,0 +1,4 @@
+<Context path="/springSecurity" debug="0" privileged="true">
+    <!--<Loader loaderClass="org.springframework.instrument.classloading.tomcat.TomcatInstrumentableClassLoader"-->
+            <!--useSystemClassLoaderAsParent="false"/>-->
+</Context>
